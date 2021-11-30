@@ -1,0 +1,7 @@
+{
+    "DB_HOST":"localhost",
+    "DB_USER":"root",
+    "DB_PASS":"India@100",
+    "DB_PORT":"3306",
+    "DB_DATABASE":"data"
+}
